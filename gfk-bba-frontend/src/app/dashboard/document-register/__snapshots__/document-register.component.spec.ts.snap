@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DocumentRegisterComponent convertHashToHex if given value is not pure hex converts the form data 1`] = `
+Object {
+  "description": "",
+  "hash": "003100320033003400350061006200660078",
+  "kind": "",
+  "linkIds": Array [],
+  "projectId": null,
+}
+`;
+
+exports[`DocumentRegisterComponent convertHashToHex if given value is pure hex keeps the form data 1`] = `
+Object {
+  "description": "",
+  "hash": "12345ab",
+  "kind": "",
+  "linkIds": Array [],
+  "projectId": null,
+}
+`;
+
+exports[`DocumentRegisterComponent createComponent resets the form 1`] = `
+Object {
+  "description": null,
+  "hash": null,
+  "kind": null,
+  "linkIds": Array [],
+  "projectId": null,
+}
+`;

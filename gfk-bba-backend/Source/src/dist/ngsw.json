@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5.bc2670d4ae8492ed723b.js",
+        "/dashboard-dashboard-module-ngfactory.122aae5de4438e619681.js",
+        "/default~dashboard-dashboard-module-ngfactory~user-user-module-ngfactory.fa30e602c3ef37cdc3ea.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.6995c86fc5e4ada13107.js",
+        "/not-found-not-found-module-ngfactory.f9b0bbdaab60f423e4ba.js",
+        "/polyfills.1b7f78b1e8b93388f63e.js",
+        "/runtime.3ef6f9d3306d7e01e954.js",
+        "/styles.ea32947c023562a3dedb.css",
+        "/user-user-module-ngfactory.36e736d37b61fb06c154.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/favicon/icon-120x120.png",
+        "/assets/favicon/icon-144x144.png",
+        "/assets/favicon/icon-152x152.png",
+        "/assets/favicon/icon-192x192.png",
+        "/assets/favicon/icon-310x310.png",
+        "/assets/favicon/icon-512x512.png",
+        "/assets/favicon/icon-72x72.png",
+        "/assets/favicon/icon-96x96.png",
+        "/assets/fonts/insight_screen_bold-e-webfont.woff",
+        "/assets/fonts/insight_screen_regular-e-webfont.woff",
+        "/assets/fonts/insightdisplay_screen_light-e-webfont.woff",
+        "/assets/fonts/lato-bold.woff",
+        "/assets/fonts/lato-regular.woff",
+        "/assets/fonts/lato-thin.woff",
+        "/assets/images/dcs-logo.svg",
+        "/assets/images/gfk-logo.svg",
+        "/assets/zondicons/bolt.svg",
+        "/assets/zondicons/chart-bar-blue.svg",
+        "/assets/zondicons/chart-bar.svg",
+        "/assets/zondicons/checkmark-outline-blue.svg",
+        "/assets/zondicons/checkmark-outline.svg",
+        "/assets/zondicons/close-blue.svg",
+        "/assets/zondicons/close.svg",
+        "/assets/zondicons/information-outline-blue.svg",
+        "/assets/zondicons/information-outline.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/5.bc2670d4ae8492ed723b.js": "b33bbd0597d5e65202b32aa80044648df3777bb4",
+    "/assets/favicon/icon-120x120.png": "af60ac0b768007239b8ebbc18da7fe5a38cd61c4",
+    "/assets/favicon/icon-144x144.png": "f0ce5de21f22b608ab1d9716b39452ab040360bf",
+    "/assets/favicon/icon-152x152.png": "4815bdc35ec7f5cc049bd77ddc9434ff69e0e7f8",
+    "/assets/favicon/icon-192x192.png": "e6be4574dce23a37687f47c08552243c62538234",
+    "/assets/favicon/icon-310x310.png": "34a536fc36d2bbff51a58144129bf46cbea54a48",
+    "/assets/favicon/icon-512x512.png": "7e14a5b85071b055169a1448693c505f24111e51",
+    "/assets/favicon/icon-72x72.png": "d8f89f69316618af92a8f9a1b881b7ef0f3acc33",
+    "/assets/favicon/icon-96x96.png": "baf77c95a8ad4f439a2f3ec8e768c43a586a7b85",
+    "/assets/fonts/insight_screen_bold-e-webfont.woff": "6ae02332b9a8706b3041485a9d8220ccee8be112",
+    "/assets/fonts/insight_screen_regular-e-webfont.woff": "27623fc035fcf806739a4d691c1c8cf289c88272",
+    "/assets/fonts/insightdisplay_screen_light-e-webfont.woff": "2dc2501578bdd409e76a951657940ccc8ebb8e39",
+    "/assets/fonts/lato-bold.woff": "f3fcdf98e2147bce10d719a51abade970fcc5641",
+    "/assets/fonts/lato-regular.woff": "076694a148237be508af30ea717c9d48851b5f0e",
+    "/assets/fonts/lato-thin.woff": "e4a4fe05e87d3801c1047a37e5798c5e5bd7ff25",
+    "/assets/images/dcs-logo.svg": "ef259fa8576238518de35a7e6572693f2ac0f538",
+    "/assets/images/gfk-logo.svg": "f02b2d97757dbcf387c11d59da1b7ea1dd7aaa45",
+    "/assets/zondicons/bolt.svg": "65e612a7285e698a027a4255b0bb1b00e4874d69",
+    "/assets/zondicons/chart-bar-blue.svg": "7d59551e710b671a678dbd4953019ae356c366bd",
+    "/assets/zondicons/chart-bar.svg": "b3ea4e68a37507810927d79a68e2d030e1fe0d09",
+    "/assets/zondicons/checkmark-outline-blue.svg": "4724237e0a6595c2029d7649f2a2929f822993c9",
+    "/assets/zondicons/checkmark-outline.svg": "5be079f1df356ef3a8b9129804d6424b1ac89d06",
+    "/assets/zondicons/close-blue.svg": "391baee2fdd62789acfee256fe384c152d931bcd",
+    "/assets/zondicons/close.svg": "84e7ccd0a17c0b8b0309091892e564c31447d9c2",
+    "/assets/zondicons/information-outline-blue.svg": "da649889eff24ddfb23f8aca94368a8084bc4c5d",
+    "/assets/zondicons/information-outline.svg": "fb772ed29202d42079cab9fb7bb52877d8704b82",
+    "/dashboard-dashboard-module-ngfactory.122aae5de4438e619681.js": "0f212c8f7fe50761ce9413492b2bb969639c5eba",
+    "/default~dashboard-dashboard-module-ngfactory~user-user-module-ngfactory.fa30e602c3ef37cdc3ea.js": "b532b87924a22b8e71fa300717ef89de73e7d371",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "34030ea01568763406c1d7a4dad93b2278d65328",
+    "/main.6995c86fc5e4ada13107.js": "cfaa7e825c23c41c44eb2178286743b82c3931ea",
+    "/not-found-not-found-module-ngfactory.f9b0bbdaab60f423e4ba.js": "041885994ccaad4da62584bf6333e344448a5022",
+    "/polyfills.1b7f78b1e8b93388f63e.js": "aa97164b376ced6b8c2cdbc0ffd53533917523be",
+    "/runtime.3ef6f9d3306d7e01e954.js": "c0ef02f7d811023e9dde6a24a0a6d1c94ba6fde4",
+    "/styles.ea32947c023562a3dedb.css": "d48362c797ce7d1eb2f6d36ea223aad8e8a8a655",
+    "/user-user-module-ngfactory.36e736d37b61fb06c154.js": "2d09bfbe249c3ba82b97d1c6043ef6c8c293f870"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
